@@ -1,5 +1,5 @@
-//please contact me giaiphapthuonghieu.org@gmail.com
-//website http://giaiphapthuonghieu.vn or http://faceseo.vn
+//please contact me diaocsaigonpropertyg@gmail.com
+//website http://diaocsaigonproperty.com.vn or http://diaocsaigonproperty.com.vn
 
 (function($) {
     $.fn.linhnguyen = function(options) {        
